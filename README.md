@@ -25,7 +25,7 @@ Netflix Movies and TV Shows dataset from Kaggle.
 ## Files in this Repository
 - dataset/netflix_titles.csv – raw dataset
 - code/data_cleaning.ipynb – cleaning code
-- screenshots/ – output images (optional)
+- screenshots/ – output images 
 
 ## Output
 A cleaned dataset ready for analysis.
